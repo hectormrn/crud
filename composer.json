@@ -1,0 +1,11 @@
+{
+    "name": "dashboard/admin",
+    "description": "Basic administrator system for websites.",
+    "authors": [
+        {
+            "name": "Hector Mrn",
+            "email": "hector.mrn55@gmail.com"
+        }
+    ],
+    "require": {}
+}
